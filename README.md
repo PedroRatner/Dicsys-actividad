@@ -1,1 +1,2 @@
-# Mi lista de peliculas:Cars,Cars2
+# Mi lista de peliculas
+Estas son peliculas que vi y orginize por generos
